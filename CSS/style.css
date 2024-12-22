@@ -1,0 +1,7 @@
+html{
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+section{
+    padding: 3.75rem 0;
+}
